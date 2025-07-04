@@ -2,8 +2,6 @@
 
 A beautiful interactive fireworks animation created with HTML5 Canvas to celebrate my birthday.
 
-![Demo Screenshot](https://i.imgur.com/example.png) *(replace with actual screenshot)*
-
 ## Features ✨
 - Interactive fireworks display
 - Colorful particle effects
